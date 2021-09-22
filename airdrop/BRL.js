@@ -2,7 +2,7 @@ let web3 = new web3js.myweb3(window.ethereum);
 
 let addr;
 
-const sttaddr = "0x27874c184ea01cf538b994239c1fcee2a713720c";
+const sttaddr = "0x479d3214079c38ed9ab296d96b88bfe23eed0002";
 const sttabi = [
 	{
 		"inputs": [],
